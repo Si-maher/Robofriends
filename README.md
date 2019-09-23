@@ -4,7 +4,7 @@ This app was created using React, CSS and it's purpose was to practise building 
 
 # Preview
 
-![Robofriends -Preview](.src/robofriends.PNG)
+![Robofriends -Preview](./src/robofriends.PNG)
 
 # Author
 
